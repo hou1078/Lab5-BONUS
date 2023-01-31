@@ -1,5 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+html 
+   {
+      background-color: bisque;
+   }
 h1
    {
         background-color: #B8B8B8;
         color:#292929;
+        width: 55%;
+        font-family: 'Montserrat',sans-serif;
+   }
+nav   
+   {
+      background-color: aquamarine;
+      text-align: center;
    }
